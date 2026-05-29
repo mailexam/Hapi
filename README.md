@@ -146,7 +146,7 @@ For unit tests, mock `sendTest` or use a [Nodemailer test account](https://ether
 
 ## See also
 
-- [Mailexam Hapi guide (wiki)](https://github.com/mailexam/wiki/blob/main/docs/en/examples/hapi.md)
+- [Mailexam Hapi guide (wiki)](https://wiki.mailexam.ru/en/examples/hapi/)
 - [Hapi documentation](https://hapi.dev/)
 - [Nodemailer documentation](https://nodemailer.com/)
 - [NestJS example](https://github.com/mailexam/NestJS) — another Node.js framework with Nodemailer
