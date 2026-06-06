@@ -5,7 +5,7 @@ function createTransport() {
   const port = Number(process.env.MAILEXAM_PORT || 587);
 
   return nodemailer.createTransport({
-    host: `${login}.mailexam.ru`,
+    host: `${login}.mailexam.io`,
     port,
     secure: port === 465,
     auth: {
