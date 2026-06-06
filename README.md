@@ -2,7 +2,7 @@
 
 Minimal [Hapi](https://hapi.dev/) example that sends test mail through [Mailexam](https://mailexam.ru/) SMTP via [Nodemailer](https://nodemailer.com/).
 
-Based on the [Mailexam Hapi guide](https://github.com/mailexam/wiki/blob/main/docs/en/examples/hapi.md).
+Based on the [Mailexam Hapi guide](https://wiki.mailexam.ru/en/examples/hapi/).
 
 ## What you need
 
