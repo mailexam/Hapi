@@ -150,3 +150,7 @@ For unit tests, mock `sendTest` or use a [Nodemailer test account](https://ether
 - [Hapi documentation](https://hapi.dev/)
 - [Nodemailer documentation](https://nodemailer.com/)
 - [NestJS example](https://github.com/mailexam/NestJS) — another Node.js framework with Nodemailer
+
+## License
+
+Apache 2.0
